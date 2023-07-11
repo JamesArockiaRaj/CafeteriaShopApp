@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161720665179",
+    "project_id": "cafeshop-ac0ac",
+    "storage_bucket": "cafeshop-ac0ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161720665179:android:7bcb964672a9e6d7dbab7e",
+        "android_client_info": {
+          "package_name": "com.example.atoscafeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161720665179-huvsblvmdcpvibd0mbelse8gfsm2ka80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8rCrCAWgYqxIRgB0pS8hbeWeZRbuqjoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161720665179-huvsblvmdcpvibd0mbelse8gfsm2ka80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
